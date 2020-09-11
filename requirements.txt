@@ -1,2 +1,2 @@
-httplib2==0.9
+httplib2==0.18.0
 requests==2.5.1
